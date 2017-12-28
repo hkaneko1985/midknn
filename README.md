@@ -1,2 +1,2 @@
-# midknn
-Midpoints between k-nearest-neighbor data points of a training dataset (midknn) as a validation dataset in regression
+# Midpoints between k-nearest-neighbor data points of a training dataset (midknn) as a validation dataset in regression
+This is python and MATLAB codes to calculate the midpoints between k-nearest-neighbor data points of a training dataset (midknn) as a validation dataset in regressionfor. Demonstration of SVR hyperparameter optimization using midknn is also included. For more details on midknn, please go to the URL given as follows: *** (Please translate the website into English using Chrome, if necessary.)
