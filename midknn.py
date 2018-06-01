@@ -6,7 +6,7 @@ import numpy as np
 # calculate indexes of the midpoints between k-nearest-neighbor data points
 # of a training dataset (midknn) as a validation dataset in regression
 
-# X: array(numpy) of explanatory variables
+# X: array(numpy) of explanatory variables [samples x x-variables]
 # k : k in k-nearest-neighbor algorithm
 def midknn(x_variables, k):
     sample_pair_numbers = np.empty((x_variables.shape[0], k))
